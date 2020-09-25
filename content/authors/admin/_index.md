@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor & Tier-1 Canada Research Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McGill University, Montreal Neurological Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
